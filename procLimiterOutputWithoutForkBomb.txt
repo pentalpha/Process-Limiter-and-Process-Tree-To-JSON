@@ -1,0 +1,20 @@
+Initial process: 6080
+[6083] in 6080 Started
+Welcome 6083!!!
+Initial process: 6080
+[6084] in 6080 Started
+Welcome 6084!!!
+Initial process: 6080
+[6085] in 6080 Started
+Welcome 6085!!!
+Initial process: 6080
+[6086] in 6080 Started
+[6086] Killed
+Initial process: 6080
+[6087] in 6080 Started
+[6087] Killed
+[6083] Ending
+[6084] Ending
+[6085] Ending
+Initial process: 6080
+[6080](Father) in 6080 Ending
